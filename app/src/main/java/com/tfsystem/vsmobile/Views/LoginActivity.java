@@ -1,7 +1,9 @@
-package com.tfsystem.vsmobile;
+package com.tfsystem.vsmobile.Views;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.tfsystem.vsmobile.R;
 
 public class LoginActivity extends AppCompatActivity {
 
